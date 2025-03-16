@@ -12,10 +12,15 @@ Feedback Generation: Provides detailed feedback on presentation skills, includin
 
 Interactive GUI: Built with Tkinter, offering a user-friendly interface for recording, analyzing, and reviewing presentations.
 ## Cài đặt
-You can install the required libraries using the following command:
-```sh
+
+### You can install the required libraries using the following command:
+```
 pip install -r requirements.txt
 
-Additionally, you need to install the whisper model:
-```sh
+```
+
+### Additionally, you need to install the whisper model:
+
+```
 pip install git+https://github.com/openai/whisper.git
+```
